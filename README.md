@@ -8,3 +8,5 @@ The contact form is written with security in mind, it provides simple required f
 
 It also features protection from XSS using the $_SERVER["PHP_SELF"] super global.
 
+Preview:
+https://autonetix.co/comment-test/final/comment-form-final.php
