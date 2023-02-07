@@ -1,5 +1,8 @@
 # simple-comment-form
-Simple comment form written in PHP, JavaScript and HTML - free to use, edit, modify! includes SPAM protection and 2 required fields.
+Super Simple comment form written in PHP, JavaScript and HTML - free to use, edit, modify! includes SPAM protection and 2 required fields.
+When the user submits the form it creates a file in the same directory called "comments.php", the file will be ammended with comments as they are posted.
+
+
 
 The contact form is written with security in mind, it provides simple required fields that must be filled to submit the form.
 
